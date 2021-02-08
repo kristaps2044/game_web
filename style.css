@@ -1,12 +1,12 @@
 #virsraksts{
     position: absolute;
     left: 800px;
-    width: 300px;
-    height: 48px;
+    width: 500px;
+    height: 49px;
     font-size:40px;
-    background-color:white;
+    background-color:grey;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:fantasy;
 }
 /* Add a black background color to the top navigation */
 .topnav {
@@ -35,4 +35,33 @@
     background-color: #4CAF50;
     color: white;
   }
+  #fons{
+    background-color:grey;
+  }
+
+  a {
+    font-family: fantasy;
+    padding: 14px 20px;
+  }
+.container{
+  background-color: maroon;
+  display: flex;
+  width: auto;
+  height: 400px;
+  position: absolute;
+  top:50px;
+
+}
+div{
+  background-color: lawngreen;
+  flex-grow: 2;
+}
+    
+  
+
+
+    
+    
+    
+  
   
