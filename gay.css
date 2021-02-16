@@ -1,0 +1,15 @@
+#num2{
+    position: absolute;
+    left: 20px;
+    top: 80px;
+}
+#num1{
+    position: absolute;
+    left: 30%;
+    top: 80px;
+}
+#ans{
+    position: absolute;
+    left: 50%;
+    top:80px;
+}

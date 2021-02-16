@@ -10,7 +10,7 @@
 }
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: green;
+    background-color:grey;
     overflow: hidden;
   }
   
@@ -26,22 +26,25 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: green;
+    color:grey;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #4CAF50;
-    color: white;
+    background-color: green;
+    color:green;
   }
   #fons{
-    background-color:grey;
+    background-color: grey;
+ 
   }
 
   a {
     font-family: fantasy;
     padding: 14px 20px;
+    color:black;
+    
   }
 
  }

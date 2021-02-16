@@ -1,3 +1,2 @@
-function kalkulators(num1,num2) {
-    return num1 + num2;
-}
+var man = {firstName: "kristaps" lastName: "baumanis" age: "17" eyeColor: "blue"};
+document.getElementById("ans").innerHTML = "man";
